@@ -1,10 +1,16 @@
 # 100-books-I-read-as-a-CS-major.
 
-I just want to setup this repo to push myself to read more professional CS books as a Computer Science major. 
+I just want to setup this record to push myself to read more professional CS books as a Computer Science major. 
 
-I want to equip myself with more deeper and wider CS knowlwdge. Trying to explore my passion and my real interests when I'm still young. 
+Also, this will be my blog or jounal for me to record the process of learnging new techologies.
 
-Most of books are from Oreilly Library, I have a student accout with it. Of course, you can use other resources to find the book.
+I decide to spend more than 1000 hours in studying Computer Science this fields.
+
+I want to equip myself with more deeper and wider CS knowlwdge when I'm still in college. Trying to explore my passion and my real interests when I'm still young. 
+
+Most of books are from Oreilly Library, I have a student memebership with it. 
+
+Of course, you can use other resources to find the book.
 
 BookList: 
 1. Head First - Java
