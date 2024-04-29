@@ -1,22 +1,20 @@
 # 100-books-I-read-as-a-CS-major.
 
-I just want to setup this record to push myself to read more professional CS books as a Computer Science major. 
+I just want to setup this repo to record 100 CS books I read as a Computer Science major. 
 
-Also, this will be my blog or jounal for me to record the process of learnging new techologies.
+2024 Goals :
+1. Make 1000 git commits.
+2. Read 100 CS related books.
+3. Solve 500 Leetcode questions.
+4. Build amazing products.
+5. Explore my interests as a SWE,PM, or UX designer.
 
-I decide to spend more than 1000 hours in studying Computer Science this fields.
-
-I want to equip myself with more deeper and wider CS knowlwdge when I'm still in college. Trying to explore my passion and my real interests when I'm still young. 
-
-Most of books are from Oreilly Library, I have a student memebership with it. 
-
-Of course, you can use other resources to find the book.
 
 BookList: 
 1. Head First - Java
 2. Clean Code
-3. Cracking the Coding Interview
-4. Operating System Concepts
+3. Cracking the Coding Interview(189 programming problems).
+4. Operating System
 5. Head First Git
 6. Head First SQL
 7. Head First GO
