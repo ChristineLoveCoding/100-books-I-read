@@ -1,6 +1,6 @@
 # 100-books-I-read-as-a-CS-major.
 
-I just want to setup this repo to jounal 100 CS books I read as a Computer Science major. 
+I just want to setup this repo to journal 100 CS books I read as a Computer Science major. 
 
 2024 Goals :
 1. Make 1000 git commits.
